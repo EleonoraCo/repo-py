@@ -4,3 +4,4 @@ def CiaoMondo()->str:
     return (ciao+ " "+pr)
 
 print (CiaoMondo())
+print (CiaoMondo())
